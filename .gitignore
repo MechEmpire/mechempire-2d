@@ -1,0 +1,8 @@
+.plastic
+plastic.ini
+Logs/*
+Library/*
+ProjectSettings/*
+Temp/*
+UserSettings/*
+Packages/packages-lock.json
